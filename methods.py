@@ -146,3 +146,4 @@ def lu_decomposition(C, b):
     print("Residuum: ", norm(res))
     print(" ")
     return finish
+
